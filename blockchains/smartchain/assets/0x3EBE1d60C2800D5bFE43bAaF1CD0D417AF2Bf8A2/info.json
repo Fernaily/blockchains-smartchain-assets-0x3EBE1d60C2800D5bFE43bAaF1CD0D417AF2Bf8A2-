@@ -1,0 +1,11 @@
+{
+  "name": "Hotel Continental",
+  "website": "",
+  "description": "HCO token on BNB Smart Chain",
+  "explorer": "https://bscscan.com/token/0x3EBE1d60C2800D5bFE43bAaF1CD0D417AF2Bf8A2",
+  "type": "BEP20",
+  "symbol": "HCO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3EBE1d60C2800D5bFE43bAaF1CD0D417AF2Bf8A2"
+}
